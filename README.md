@@ -1,1 +1,1 @@
-# Clock-JS.github-io
+# digitalclock.github-io
